@@ -1,4 +1,4 @@
-class Gothanks < Formula
+class Gothanks030 < Formula
   desc "Automatically star your go.mod Github dependencies"
   homepage "https://github.com/psampaz/gothanks"
   url "https://github.com/psampaz/gothanks/archive/v0.3.0.tar.gz"
